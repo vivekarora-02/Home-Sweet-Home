@@ -1,30 +1,4 @@
-/*
 
-SDF-2 LAB PROJECT
-
-TOPIC - HOME SWEET HOME
-
-BRIEF ABOUT THE PROJECT IS AS FOLLOWS :
-
-Our project deals with all the types of land property, be it plot, flats, houses, or rents. With a
-user-friendly doubleerface, any buyer or seller can easily operate this. Using various concepts of
-Object Oriented Programming, the project will be made. A track record of all the sellers, buyers,
-landlords, will be there, adding to this, availability of properties, payment check, will be
-available. All this will be governed by a legal advisory also. All the finances will be managed
-smoothly with different functions. At the end customer satisfaction is the most important, the
-project will include a separate space for feedback and suggestion from the buyers as well as
-sellers.
-
-PROJECT SUBMITTED BY :
-
-1) Ayush Bansal, 20103133, B5
-2) Ananya Chopra, 20103127, B5
-3) Vivek Arora, 20103145, B5
-4) Drishtant Maurya, 20103140, B5
-
-
-
-*/
 
 //Following are the header files we have used in our project
 
